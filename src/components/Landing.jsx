@@ -23,7 +23,7 @@ export default function Landing() {
         </nav>
       </header>
       {/* HERO / LANDING */}
-      <section className="relative px-[10%] py-16 bg-linear-to-b from-blue-100 to-blue-50 min-h-[60vh] flex items-center">
+      <section className="relative px-[10%] py-16 bg-gradient-to-b from-blue-100 to-blue-50 min-h-[60vh] flex items-center">
         <div className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 items-center w-full">
           {/* Left Side - Text */}
           <div>
