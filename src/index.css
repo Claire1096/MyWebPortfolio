@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+
+body {
+  font-family: 'Playfair Display', serif; /* default font for main content */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-style: italic; /* headings italic if not already */
+}
+
+.navbar-labels {
+  font-family: 'Poppins', sans-serif;
+  font-style: italic;
+}
+
+.about-me{
+  font-family: 'Poppins', sans-serif;
+  font-style: italic;
+}
+
+.petrona{
+  font-family: 'Petrona', sans-serif;
+  font-style: italic;
+}
+html {
+  scroll-behavior: smooth;
+}
