@@ -1,6 +1,6 @@
 import { useState } from "react";
 import sun from "../assets/sun.png";
-import diaryImage from "../assets/diary.png";
+import diaryImage from "../assets/Diary.png";
 import trackerImage from "../assets/Tracker.png";
 
 export default function Project() {
